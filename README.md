@@ -14,7 +14,7 @@
  
  <br>
  
-  ###  A abaixo algumas das minhas redes! 
+  ###  Abaixo minhas redes socias ! 
  
 <div> 
   <a href="https://instagram.com/marcosquinhoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
